@@ -1,5 +1,4 @@
 
-# Aperçu du Projet d'Apprentissage Automatique
 
 Ce projet comprend le développement et l'évaluation de divers modèles d'apprentissage automatique, y compris la visualisation d'images à partir de données, le K-Plus Proches Voisins (KNN), la Régression Logistique Multivariée et les Réseaux de Neurones. Chaque modèle est appliqué à des ensembles de données spécifiques dans le but de classification multivariées.
 
